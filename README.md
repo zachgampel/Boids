@@ -2,7 +2,7 @@
 
 This is an implementation of the famous "boids" algorithm, developed by Craig Reynolds. It creates many boids, each of which follows simple rules to create the behavior of flocking, such as with birds or fish. The code is written in C++ and uses SFML for rendering the boids and taking in user input.
 
-The weighting of the rules used to steer the boids can be modified as the program runs, which can help one better understand how each parameter affects steering. The main parameters are cohesion, alignment, and separation. You can learn more about these from here: https://en.wikipedia.org/wiki/Boids
+The weighting of the rules used to steer the boids can be modified as the program runs, which can help one better understand how each parameter affects steering. The main parameters are cohesion, alignment, and separation. You can learn more about these here: https://en.wikipedia.org/wiki/Boids
 
 Color fear is the repulsion from differently colored boids. Mouse fear is the repulsion from the mouse. Max neighbors can be used to decrease the number of neighboring boids being looked at, which can yield significant performance increases without obvious changes in boid behavior.
 
