@@ -1,0 +1,88 @@
+﻿  Main.cpp
+C:\Users\User\source\repos\Boids\Boids\Boid.cpp(18,23): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\Boids\Boids\Boid.cpp(19,23): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\Boids\Boids\Boid.cpp(25,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\Boids\Boids\Boid.cpp(25,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\Boids\Boids\Boid.cpp(58,50): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\Boids\Boids\Boid.cpp(60,51): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\Boids\Boids\Boid.cpp(65,23): warning C4018: '>': signed/unsigned mismatch
+C:\Users\User\source\repos\Boids\Boids\Boid.cpp(71,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Boids\Boids\Boid.cpp(72,21): warning C4018: '>': signed/unsigned mismatch
+C:\Users\User\source\repos\Boids\Boids\Boid.cpp(76,1): warning C4267: '=': conversion from 'size_t' to 'sf::Uint8', possible loss of data
+C:\Users\User\source\repos\Boids\Boids\Boid.cpp(77,1): warning C4267: '=': conversion from 'size_t' to 'sf::Uint8', possible loss of data
+C:\Users\User\source\repos\Boids\Boids\BoidStorage.cpp(17,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Boids\Boids\BoidStorage.cpp(18,51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Boids\Boids\BoidStorage.cpp(29,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Boids\Boids\BoidStorage.cpp(31,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\Boids\Boids\BoidStorage.cpp(32,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\Boids\Boids\BoidStorage.cpp(45,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\Boids\Boids\BoidStorage.cpp(46,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\Boids\Boids\FPSTracker.cpp(19,10): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\User\source\repos\Boids\Boids\FPSTracker.cpp(25,22): warning C4244: 'return': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\User\source\repos\Boids\Boids\Main.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\Boids\Boids\Main.cpp(48,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Boids\Boids\Main.cpp(69,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Boids\Boids\Main.cpp(77,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Boids\Boids\Main.cpp(95,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Boids\Boids\Main.cpp(104,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Boids\Boids\Main.cpp(110,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\Boids\Boids\Main.cpp(110,60): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\User\source\repos\Boids\Boids\Main.cpp(111,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Boids\Boids\Main.cpp(133,21): warning C4018: '<': signed/unsigned mismatch
+  Boids.vcxproj -> C:\Users\User\source\repos\Boids\Debug\Boids.exe
